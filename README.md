@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm a young developer 👋
 
-<!--
-**Westernoff/Westernoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started programming at 13 and enjoy building real applications and learning software engineering.
 
-Here are some ideas to get you started:
+## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Python & Dart developer  
+• Contributor to **Digital Manager** desktop application  
+• Interested in backend development and software architecture  
+• Always building and learning
+
+## 🛠 Tech stack
+
+Python  
+Dart / Flutter  
+Git  
+SQLite / databases
+
+## 📂 Projects
+
+### Digital Manager
+Desktop application for internal company management.
+
+Features:
+- employee performance tracking
+- company directory
+- internal navigation system
+
+Tech:
+Dart / Flutter
+
+## 📚 Currently learning
+
+- backend development
+- API design
+- software architecture
+
+## 📫 Contact
+
+Telegram: @westernoff_blackbeil 
