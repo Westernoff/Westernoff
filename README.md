@@ -1,6 +1,4 @@
-# Hi, I'm a young developer 👋
 
-I started programming at 13 and enjoy building real applications and learning software engineering.
 
 ## 🚀 About me
 
